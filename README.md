@@ -1,2 +1,2 @@
 # EtchASketch
-Exercise with canvas in javascript
+Simulation if the old toy with canvas in javascript.
